@@ -9,13 +9,12 @@
     "lite": "lite-server"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/liqsosng/git-test.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
   
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.5.4"
   }
 }
